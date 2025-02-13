@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReaderRadarAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c775c3749c4fd31b3a1f3e1d2440ae80a5c22282")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReaderRadarAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReaderRadarAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

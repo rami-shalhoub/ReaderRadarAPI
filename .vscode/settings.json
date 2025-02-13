@@ -1,0 +1,22 @@
+{
+  "dbcode.connections": [
+    {
+      "connectionId": "7B5oL5jEAFjDtFGp6jwrP",
+      "name": "SQLserver",
+      "driver": "mssql",
+      "color": "#7655FF",
+      "host": "localhost",
+      "port": 1433,
+      "ssl": false,
+      "driverOptions": {
+        "authType": "sql"
+      },
+      "username": "rami",
+      "password": "",
+      "savePassword": "secretStorage",
+      "database": "ReaderRadar",
+      "connectionTimeout": 30,
+      "connectionType": "host"
+    }
+  ]
+}
